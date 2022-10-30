@@ -1,0 +1,17 @@
+{
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.53"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "name": "Study_blog",
+  "version": "1.0.0",
+  "description": "Let's learn together",
+  "main": "index.js",
+  "repository": "https://github.com/switchchow/Study_Blog.git",
+  "author": "switchchow <switchchow@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
